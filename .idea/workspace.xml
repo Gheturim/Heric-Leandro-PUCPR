@@ -27,8 +27,9 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "modificacao-2",
+    "RunOnceActivity.git.unshallow": "true",<<<<<<< modificacao-nome-endpoint
+    "git-widget-placeholder": "modificacao-nome-endpoint",=======
+    "git-widget-placeholder": "modificacao-2",>>>>>>> main
     "last_opened_file_path": "C:/Users/heric/Documents/GitHub/Heric-Leandro-PUCPR",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +57,7 @@
       <updated>1742431071240</updated>
       <workItem from="1742431074341" duration="148000" />
       <workItem from="1742431232462" duration="403000" />
+      <workItem from="1742431650135" duration="656000" />
       <workItem from="1742431650135" duration="431000" />
     </task>
     <servers />
