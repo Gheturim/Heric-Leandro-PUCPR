@@ -35,4 +35,3 @@ jobs:
           context: .
           push: false
           tags: user/app:latest
-        uses: docker/setup-buildx-action@v3
