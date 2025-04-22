@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8385b141-76cc-4104-8674-35d891ba83b6" name="Changes" comment="" />
+    <list default="true" id="8385b141-76cc-4104-8674-35d891ba83b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousintegration.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +60,7 @@
       <workItem from="1742431232462" duration="403000" />
       <workItem from="1742431650135" duration="656000" />
       <workItem from="1742431650135" duration="431000" />
+      <workItem from="1745357484905" duration="352000" />
     </task>
     <servers />
   </component>

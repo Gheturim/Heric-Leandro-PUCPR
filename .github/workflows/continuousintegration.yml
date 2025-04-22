@@ -35,6 +35,7 @@ jobs:
           context: .
           push: false
           tags: user/app:latest
+
   discord:
     runs-on: ubuntu-latest
     steps:
