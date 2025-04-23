@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8385b141-76cc-4104-8674-35d891ba83b6" name="Changes" comment="">
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/continuousdelivery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/discord.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/discord.yml" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
